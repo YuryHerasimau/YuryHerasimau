@@ -24,32 +24,44 @@
 
 <p align="center">
   I love writing clean code, setting up CI/CD, and freeing people from routine tasks.
+  I design scalable automation systems, backend services, and AI-powered pipelines.
 </p>
 
 ### 🛠 My Stack
 
-<p align="center">
-  <strong>Python</strong> • <strong>FastAPI</strong> • <strong>Django</strong> • <strong>Flask</strong><br/>
-  <strong>Selenium</strong> • <strong>Playwright</strong> • <strong>Requests</strong><br/>
-  <strong>PostgreSQL</strong> • <strong>MySQL</strong><br/>
-  <strong>Docker</strong> • <strong>GitHub Actions</strong> • <strong>Git</strong><br/>
-  <strong>Postman</strong> • <strong>Jira</strong> • <strong>JMeter</strong><br/>
-  <strong>LangChain</strong> • <strong>RAG</strong> • <strong>LLM</strong> • <strong>MCP Playwright</strong> • <strong>n8n</strong>
-</p>
+<details>
+  <summary align="center"><strong>🛠 Full Tech Stack</strong></summary>
+  <br/>
+  <p align="center">
+    <strong>Backend:</strong> Python, FastAPI, Django, Flask <br/>
+    <strong>Testing:</strong> pytest, Requests, Playwright, Selenium, Postman <br/>
+    <strong>Databases:</strong> PostgreSQL, MySQL, Redis, MongoDB <br/>
+    <strong>Async & Processing:</strong> Celery, AsyncIO, Task Queues <br/>
+    <strong>DevOps:</strong> Docker, CI/CD, GitHub Actions <br/>
+    <strong>AI:</strong> LangChain, RAG, OCR, LLM <br/>
+    <strong>Observability:</strong> ELK, Grafana, Logging, Monitoring <br/>
+    <strong>Cloud:</strong> AWS / GCP (basic)
+  </p>
+</details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 </p>
 
 <p align="center">

@@ -33,7 +33,7 @@
   <summary align="center"><strong>🛠 Full Tech Stack</strong></summary>
   <br/>
   <p align="center">
-    <strong>Backend:</strong> Python, FastAPI, Django, Flask <br/>
+    <strong>Backend:</strong> Python, FastAPI, Django, Flask, Streamlit <br/>
     <strong>Testing:</strong> pytest, Requests, Playwright, Selenium, Postman <br/>
     <strong>Databases:</strong> PostgreSQL, MySQL, Redis, MongoDB <br/>
     <strong>Async & Processing:</strong> Celery, AsyncIO, Task Queues <br/>
@@ -45,23 +45,7 @@
 </details>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,bootstrap,css,html,postman,selenium,postgres,mysql,mongodb,redis,docker,git" />
 </p>
 
 <p align="center">
